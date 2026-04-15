@@ -21,12 +21,12 @@ Setiap kali buka chat baru dengan Claude, ketik:
 ### FASE 1: Frontend (Target: 4 bulan)
 #### Bulan 1 - HTML & CSS
 - [ ] **HTML Dasar**
-  - [ ] Struktur halaman (html, head, body)
-  - [ ] Heading (h1-h6)
-  - [ ] Paragraf (p)
+  - [x] Struktur halaman (html, head, body)
+  - [x] Heading (h1-h6)
+  - [x] Paragraf (p)
   - [ ] Div & Span
-  - [ ] Link (a)
-  - [ ] Gambar (img)
+  - [x] Link (a)
+  - [x] Gambar (img)
   - [ ] List (ul, ol, li)
   - [ ] Tabel (table, tr, td, th)
   - [ ] Form & Input
@@ -112,18 +112,25 @@ Setiap kali buka chat baru dengan Claude, ketik:
 ## PROGRESS SESI BELAJAR
 
 ### Sesi 1 - 15 April 2026
-**Status:** Baru memulai
+**Status:** Selesai
 **Yang dipelajari:**
 - Mengenal roadmap full stack developer
 - Memahami rencana kurikulum belajar
+- Struktur dasar HTML (html, head, body)
+- Tag heading h1-h6
+- Tag paragraf (p)
+- Tag link (a) + cara pakai href dengan https://
+- Tag gambar (img) + fungsi alt
+- Berhasil debug error sendiri (kurang > dan https://)
 
 **Materi selanjutnya:**
-- Mulai HTML: Struktur dasar halaman (html, head, body)
-- Belajar tag heading dan paragraf
+- List (ul, ol, li)
+- Tabel (table, tr, td, th)
 
 **Catatan:**
-- Pelajar baru hari ini memulai perjalanan menjadi programmer
-- Semangat tinggi dan motivasi kuat!
+- Pelajar sangat cepat menangkap materi
+- Berhasil menemukan dan memahami error di kode sendiri
+- Semangat tinggi dan konsisten!
 
 ---
 

@@ -27,8 +27,8 @@ Setiap kali buka chat baru dengan Claude, ketik:
   - [ ] Div & Span
   - [x] Link (a)
   - [x] Gambar (img)
-  - [ ] List (ul, ol, li)
-  - [ ] Tabel (table, tr, td, th)
+  - [x] List (ul, ol, li)
+  - [x] Tabel (table, tr, td, th)
   - [ ] Form & Input
   - [ ] Semantic HTML (header, nav, main, footer, section, article)
 
@@ -110,6 +110,25 @@ Setiap kali buka chat baru dengan Claude, ketik:
 ---
 
 ## PROGRESS SESI BELAJAR
+
+### Sesi 2 - 19 April 2026
+**Status:** Selesai
+**Yang dipelajari:**
+- List unordered (ul, li) - bullet point
+- List ordered (ol, li) - nomor urut
+- Tabel (table, tr, th, td)
+- Cara pakai align="center" di td dan tr
+- Memahami perbedaan th (otomatis tengah) vs td (otomatis kiri)
+
+**Materi selanjutnya:**
+- Form & Input
+- Div & Span
+
+**Catatan:**
+- Pelajar makin cepat paham konsep
+- Bisa menganalisis perbedaan tag dengan baik
+
+---
 
 ### Sesi 1 - 15 April 2026
 **Status:** Selesai
